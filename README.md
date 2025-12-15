@@ -1,2 +1,2 @@
 # wrestlepuzzle-support
-レッスルパズルのサポート用URL
+レッスルパズル(iOS)のサポート用URL
